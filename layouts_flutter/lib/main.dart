@@ -1,10 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:layouts_flutter/Ui1.dart';
 import 'package:layouts_flutter/alignment.dart';
 import 'package:layouts_flutter/container.dart';
 import 'package:layouts_flutter/view.dart';
 
 void main() {
-  runApp(MyApp4());
+  runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
+    home: HomePage(),
+  ));
 }
 
 class MyApp extends StatelessWidget {
