@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:layouts_flutter/alignment.dart';
 import 'package:layouts_flutter/container.dart';
+import 'package:layouts_flutter/view.dart';
 
 void main() {
-  runApp(MyApp3());
+  runApp(MyApp4());
 }
 
 class MyApp extends StatelessWidget {
