@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:layouts_flutter/alignment.dart';
 import 'package:layouts_flutter/container.dart';
 
 void main() {
-  runApp(MyApp2());
+  runApp(MyApp3());
 }
 
 class MyApp extends StatelessWidget {
